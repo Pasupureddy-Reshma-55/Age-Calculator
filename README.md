@@ -56,7 +56,7 @@ This project was developed to practice HTML, CSS, and JavaScript concepts, inclu
 
 ## 👩‍💻 Author
 
-**Your Name**
+**P.Reshma**
 
 GitHub: [P.Reshma](https://github.com/your-reshma)
 
