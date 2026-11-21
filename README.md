@@ -58,7 +58,7 @@ This project was developed to practice HTML, CSS, and JavaScript concepts, inclu
 
 **Your Name**
 
-GitHub: [Your GitHub Profile](https://github.com/your-username)
+GitHub: [P.Reshma](https://github.com/your-reshma)
 
 ## 📄 License
 
